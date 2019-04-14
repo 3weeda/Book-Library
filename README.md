@@ -1,8 +1,6 @@
-# **BookyWooky**
+# **Book-Library**
 
-This application uses goodreads api to look for books by title, author or isbn code.
-
-This project was bootstrapped with `create-react-app` and deployed live at https://muskangarg12.github.io/BookyWooky 
+This application is bootstrapped with `create-react-app`, and it uses goodreads api to look for books by title, author or isbn code.
 
 # Running the application locally
 
@@ -14,7 +12,7 @@ Having done that, here is how to run the application locally in development mode
 
 **Clone the repo:**
 
-    git clone https://github.com/muskangarg12/BookyWooky.git
+    git clone https://github.com/3weeda/Book-Library.git
 
 **Install dependencies:**
 
